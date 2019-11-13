@@ -1,3 +1,3 @@
 # Aprendendo Idiomas
 
-[veja rodando no StackBlitz ⚡️](https://aprendendoidiomas.stackblitz.io/)
+[Veja rodando no StackBlitz ⚡️](https://aprendendoidiomas.stackblitz.io/)
