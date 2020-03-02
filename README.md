@@ -1,5 +1,5 @@
 # Aprendendo Idiomas
-App simples simulando uma aula de um curso de idiomas usando Angular e Javascript
+App simples simulando uma aula de um curso de idiomas usando Angular e Javascript.
 
 
 
